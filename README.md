@@ -1,7 +1,7 @@
 # philosophers
 This project was an introduction to threading and processes, and how to work on the same memory space. We learned how to manipulate threads. We learned about mutexes and shared memory.
 
-Philosophers are seated around a round table with a large dish of spaghetti in the center.
+Philosophers are seated around a table with a large dish of spaghetti in the center.
 - The philosophers are either eating, thinking or sleeping. They can only do one action at a time.
 - There are also forks on the table. There are as many forks as there are philosophers.
 - To eat, a philosopher takes the fork on his left and the one on his right, i.e. one fork in each hand.
